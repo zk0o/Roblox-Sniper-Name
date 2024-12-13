@@ -1,0 +1,7 @@
+Replit,
+requests,
+colorama,
+valid_usernames.txt.
+
+others: pip install -r requirements.txt
+webhook ( opctional send valid names )
